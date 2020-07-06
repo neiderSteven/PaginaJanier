@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "PaginaPrincipal-Janier"
+    }
+  },
+  "defaultProject": "PaginaPrincipal-Janier",
+  "cli": {
+    "analytics": "49585f67-035c-402c-abbe-0698d7b13bac"
+  }
 }
